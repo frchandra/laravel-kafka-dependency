@@ -3,7 +3,7 @@
     "description": "Package for confluent kafka and laravel framework integration",
     "type": "library",
     "require": {
-        "laravel/framework": "^9.19"
+        "laravel/framework": "^8.10.0"
     },
     "license": "MIT",
     "autoload": {
